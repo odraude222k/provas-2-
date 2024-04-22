@@ -13,7 +13,7 @@ public class Impostor extends Astrounauta implements Missao, Sabotar, Executar{
     }
 
     public void trancarPortas(String local){
-        System.out.println("O impostor trancou as portas do(a) " + local);
+        System.out.println(" O impostor trancou as portas do(a) " + local);
     }
 
     @Override
